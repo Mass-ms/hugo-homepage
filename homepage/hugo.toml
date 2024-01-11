@@ -1,8 +1,8 @@
-baseURL = "https://example.com"
-title = "Blonde"
-author = "wamo"
-languageCode = "en"
-DefaultContentLanguage = "en"
+baseURL = "https://hpcb.jp"
+title = "HYPERCUBE"
+author = "Mass"
+languageCode = "ja"
+DefaultContentLanguage = "ja"
 enableInlineShortcodes = true
 theme = "Blonde"
 enableRobotsTXT = true
@@ -59,7 +59,7 @@ darkmode = "light"
     # See the Tailwind CSS documentation to set it up.
     # Recommended settings are h-32 to h-48.
     # https://tailwindcss.com/docs/height
-    thumbnail_height = "lg:h-44"
+    thumbnail_height = "lg:h-32"
 
     # https://tailwindcss.com/docs/width
     thumbnail_width = "lg:w-auto"
@@ -94,10 +94,28 @@ darkmode = "light"
     weight = 2
 
   [[menu.main]]
+    identifier = "works"
+    name = "Works"
+    url = "/works/"
+    weight = 3
+  
+  [[menu.main]]
+    identifier = "release"
+    name = "Release"
+    url = "/release/"
+    weight = 4
+  
+  [[menu.main]]
+    identifier = "links"
+    name = "Links"
+    url = "/links/"
+    weight = 5
+  
+  [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 3
+    weight = 6
 
 [taxonomies]
 category = "categories"

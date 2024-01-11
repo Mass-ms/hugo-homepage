@@ -1,9 +1,9 @@
 ---
-author: "Wamo"
-title: "Image Test"
+author: "Mass"
+title: "ホームページを作りました"
 image: "img/prism.jpg"
 draft: false
-date: 2020-08-14
+date: 2023-01-11
 description: "Image Test"
 tags: ["themes"]
 archives: ["2020/08"]
