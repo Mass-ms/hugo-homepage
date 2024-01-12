@@ -65,7 +65,7 @@ darkmode = "light"
     thumbnail_width = "lg:w-auto"
 
     # Number of characters in description
-    description = "130"
+    description = "10"
 
   [params.widgets]
     # Display widgets
