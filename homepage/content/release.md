@@ -9,7 +9,7 @@ author = "Mass"
 HYPERCUBEのリリースについてまとめています．
 
 {{< rawhtml >}}
-<div class="flex flex-col sm:flex-row rounded-xl bg-gray-100">
+<div class="flex flex-col sm:flex-row rounded-xl bg-gray-100 dark:bg-warmgray-700">
     <!-- アルバムのアートワーク部分; 角丸を解除、横幅を full に -->
     <div class="flex justify-center items-center p-4 sm:w-1/4">
       <img src="/img/FMOB.jpg" alt="アルバムアートワーク" class="max-w-full h-auto rounded-none">

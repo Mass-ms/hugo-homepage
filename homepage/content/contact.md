@@ -1,29 +1,47 @@
 ---
 title: "Contact"
-description: "Hugo, the world's fastest framework for building websites"
-date: 2019-02-30
+description: "Contact"
+date: 2024-01-14
 aliases: ["contact"]
-author: "Hugo Authors"
+author: "Mass"
 ---
 
-{{< rawhtml >}}
+依頼・感想等お待ちしております．
 
-<div class="content">
-    <p class="mb-2">To contact us, please fill out the form below.</p>
-    <form name=contact action="https://getform.io/f/4bc32c7d-2c91-4c4d-bacf-a8c1bccf1de9" method=post>
-    <div class="mb-4">
-         <input type=text placeholder="Your Name" name=name class="w-full p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500 dark:bg-warmgray-700 dark:border-warmgray-700 dark:focus:bg-warmgray-800" required>
-    </div>
-    <div class="mb-4">
-        <input type=text placeholder="Email Address" name=mail class="w-full p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500 dark:bg-warmgray-700 dark:border-warmgray-700 dark:focus:bg-warmgray-800" required>
-    </div>
-    <div class="mb-4">
-        <input type=text placeholder="Subject" name=title class="w-full p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500 dark:bg-warmgray-700 dark:border-warmgray-700 dark:focus:bg-warmgray-800" required>
-    </div>
-    <div class="mb-4">
-        <textarea rows=5 cols=30 placeholder="Message" name=message class="w-full p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500 dark:bg-warmgray-700 dark:border-warmgray-700 dark:focus:bg-warmgray-800" required></textarea>
-    </div>
-    <input type=submit value="Submit" class="w-full button duration-100 py-2 bg-gray-800 text-white cursor-pointer transition-colors hover:bg-gray-600">
-    </form>
+## 楽曲利用について
+楽曲の利用に関しましてはこちらを参考にご利用ください．
+連絡が不要の場合も連絡いただければ，可能な限り見に行きます．
+
+[楽曲等の利用規約]({{< ref "/terms.md" >}})
+
+## 感想や要望
+楽曲の感想はメールや各種コメント欄によろしくお願いします．
+頂けると大変喜びますし，励みになります．お気軽にどうぞ！！
+
+各種要望(楽曲の再販・配信・公開)も受け付けております．
+全ての要望にお答えすることは難しいですが，こちらもお気軽にご連絡ください．
+
+## 楽曲制作の依頼について
+商業・同人問わず楽曲制作(作詞 / 作曲 / 編曲)等のご依頼を募集しております．
+お力になれそうな案件がありましたら，下記の内容を含む文書を添えて，メールにてお気軽にご相談ください．
+
+- 依頼者のお名前
+- ホームページやTwitterアカウントのURL
+- 依頼内容 : 可能な限り詳細だと助かります．下記は，書いて頂きたい内容の例です．不明な場合はそれも含めご相談に乗りますのでその旨をお書きください．
+    - 楽曲の利用用途・リリース媒体
+    - イメージ，参考楽曲など
+    - 楽曲の長さ(何分程度か)・ループの有無
+    - 納品形式
+- 権利規約
+- 納期・スケジュール
+- 予算 : 依頼の内容により変動しますが，まずは目安としてご提示ください．
+- 楽曲を利用した媒体のリリース予定日
+- 実績公開可否
+
+{{< rawhtml >}}
+<div class="container mx-auto text-center p-4">
+    <a href="mailto:mass0203ms@gmail.com" class="inline-block bg-slate-500 hover:bg-slate-700 text-white font-bold py-2 px-4 rounded">
+        Email Me
+    </a>
 </div>
 {{< /rawhtml >}}

@@ -10,6 +10,9 @@ module.exports = {
           900: "#181a1b",
         },
       },
+      spacing: {
+        '9': '2.25rem',
+      }
     },
   },
   variants: {},
