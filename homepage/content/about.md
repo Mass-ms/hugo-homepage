@@ -1,25 +1,21 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = "About Me"
+date = "2024-01-13"
+aliases = ["about-me", "contact"]
+author = "Mass"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+{{< img src="/img/logo.png" title="" class="w-48">}}
 
-Hugo makes use of a variety of open source projects including:
+#### Mass
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+同人音楽サークル「HYPERCUBE」代表
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+ピアノや吹奏楽・オーケストラ，軽音，音ゲーをルーツにジャンルにこだわらず，音声合成ソフトウェアを使用した楽曲やインスト，BGMを制作．
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+2023年12月，オリジナル曲『双星 / 結月ゆかり & 紲星あかり』が VOCALOMAKETS「結月ゆかり・紲星あかり誕生祭記念公式生放送2023ライブパート」に採用
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+2023年11月，本渡楓トークショー「彩れ！楓の木」にNITMicとして開発したUnity製ゲーム「Cygnus」を提供
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+2021年，NITMicでサウンドを担当したゲーム「Twinst」が日本ゲーム大賞2021「アマチュア部門」一次審査通過
