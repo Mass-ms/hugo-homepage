@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+{{ if eq .Site.Params.darkmode "dark" }}
+<html lang="{{ .Site.LanguageCode | default .Site.Language.Lang }}" class="dark">
+{{ else }}
+<html lang="{{ .Site.LanguageCode | default .Site.Language.Lang }}">
+{{ end }}
+{{- partial "head.html" . -}}
+
+<body class="font-sans">
+    <div class="min-h-screen flex flex-col bg-gray-100 dark:bg-warmgray-800">
+        {{- partial "header.html" . -}}
+        <div class="container max-w-screen-xl mx-auto mt-4 flex-grow px-5 lg:px-0" id="content">
+            <div class="lg:mx-5">
+                <div class="bg-white col-span-3 lg:col-span-3 p-5 dark:bg-warmgray-900 dark:text-white">
+                    <h1 class="title text-4xl font-bold mb-2">Works</h1>
+                    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 p-10 md:px-20" id="grid">
+                        <script>
+                            async function requestForiioWorks(queryParams) {
+                                // クエリパラメータをURLに追加
+                                const url = `https://foriio.mass0203ms.workers.dev/${queryParams}`;
+                                const response = await fetch(url); // ここを Worker のルートに合わせる
+                                if (!response.ok) {
+                                    throw new Error('Network response was not ok');
+                                }
+                                return await response.json();
+                            }
+
+                            function displayWorks(data) {
+                                const container = document.getElementById('grid');
+                                data.works.forEach(work => {
+                                    const workEl = document.createElement('div');
+                                    workEl.className = 'bg-white rounded-xl shadow-md overflow-hidden cursor-pointer hover:shadow-lg hover:bg-gray-350 transition duration-300'
+                                    workEl.addEventListener('click', () => {
+                                        window.open(`https://www.foriio.com/works/${work.id}`, '_blank');
+                                    });
+                                    workEl.innerHTML = `
+                                            <div class="relative">
+                                                <img class="w-full h-48 object-cover override-margin" src="${work.thumbnail}" alt="${work.title}">
+                                            </div>
+                                            <div class="p-4">
+                                                <div class="text-lg font-medium text-gray-800 mb-2">${work.title}</div>
+                                                <p class="text-gray-500 text-sm line-clamp-2">${work.description}</p>
+                                            </div>  
+                                        `;
+                                    container.appendChild(workEl);
+                                });
+                            }
+
+
+                            // APIリクエストを実行し、結果を表示
+                            const queryParams = '?category=ボカロ';
+                            requestForiioWorks(queryParams)
+                                .then(displayWorks)
+                                .catch(error => {
+                                    console.error('Error fetching Foriio works:', error);
+                                });
+                        </script>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {{- partial "footer.html" . -}}
+    </div>
+</body>
+
+</html>

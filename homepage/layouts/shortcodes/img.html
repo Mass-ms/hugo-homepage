@@ -1,0 +1,9 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" -}}
+{{- $title := .Get "title" -}}
+{{- $class := .Get "class" -}}
+
+<div class="{{ $class }} max-w-[230px]">
+    <img src="{{ $src }}" alt="{{ $alt }}" title="{{ $title }}" class=" m-0 h-full w-full object-cover shrink-0
+        override-margin">
+</div>

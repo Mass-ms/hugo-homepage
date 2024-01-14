@@ -5,7 +5,7 @@ draft: false
 image: "img/m32023autumn.jpg"
 date: 2023-11-04
 description: "M3 2023秋"
-tags: ["告知"]
+tags: ["告知", "イベント"]
 archives: ["2024/01"]
 ---
 
