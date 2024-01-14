@@ -1,7 +1,6 @@
 ---
 author: "Mass"
 title: "ホームページを作りました"
-image: "img/prism.jpg"
 draft: false
 date: 2024-01-11
 description: "ホームページ作成"
