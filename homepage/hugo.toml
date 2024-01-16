@@ -24,6 +24,9 @@ base_color = "bg-gray-800"
 #Site description
 description = "HYPERCUBE Official Website"
 
+#Default Image
+images = ["/img/logo.png"]
+
 # The number of articles to be displayed on a single page.
 paginator_pages = "5"
 
