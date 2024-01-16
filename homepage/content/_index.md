@@ -1,3 +1,4 @@
 +++
-author = "Hugo Authors"
+author = "Mass"
+image = ["/img/logo.png"]
 +++
