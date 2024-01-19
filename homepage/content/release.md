@@ -21,7 +21,10 @@ HYPERCUBEのリリースについてまとめています．
         <div class="text-xs sm:text-sm text-gray-600 line-clamp-4 dark:text-gray-400 mb-6">2023年3月12日に名古屋で開催された、CeVIO FeSTA 8 の新譜です。形式: CDレスフィジカル 収録楽曲 小春六花 / 青いガラス 双葉湊音 / Apparition すずきつづみ / Blue Compass 琴葉葵 / Cyber Cider 結月ゆかり / 星月 -For The Moon Weeps, The Stars Flow-
         </div>
         <!-- 販売場所へのボタン; 角丸を解除、横幅を full に -->
-        <a href="https://mass-box.booth.pm/items/4602843" class="sm:self-start px-4 py-2 bg-blue-500 text-white rounded-none hover:bg-blue-600 transition-colors">BOOTH</a>
+        <div class="flex justify-start gap-x-4">
+          <a href="https://mass-box.booth.pm/items/4602843" class="sm:self-start px-4 py-2 bg-blue-500 text-white rounded-none hover:bg-blue-600 transition-colors">BOOTH</a>
+          <a href="https://mass-box.booth.pm/items/5435825" class="sm:self-start px-4 py-2 bg-blue-500 text-white rounded-none hover:bg-blue-600 transition-colors">BOOTH(DL版)</a>
+        </div>
     </div>
 </div>
 {{< /rawhtml >}}
