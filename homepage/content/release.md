@@ -22,8 +22,7 @@ HYPERCUBEのリリースについてまとめています．
         </div>
         <!-- 販売場所へのボタン; 角丸を解除、横幅を full に -->
         <div class="flex justify-start gap-x-4">
-          <a href="https://mass-box.booth.pm/items/4602843" class="sm:self-start px-4 py-2 bg-blue-500 text-white rounded-none hover:bg-blue-600 transition-colors">BOOTH</a>
-          <a href="https://mass-box.booth.pm/items/5435825" class="sm:self-start px-4 py-2 bg-blue-500 text-white rounded-none hover:bg-blue-600 transition-colors">BOOTH(DL版)</a>
+          <a href="https://mass-box.booth.pm/items/5435825" class="sm:self-start px-4 py-2 bg-blue-500 text-white rounded-none hover:bg-blue-600 transition-colors">BOOTH</a>
         </div>
     </div>
 </div>
@@ -41,7 +40,7 @@ HYPERCUBEのリリースについてまとめています．
         </div>
         <!-- 販売場所へのボタン; 角丸を解除、横幅を full に -->
         <div class="flex justify-start gap-x-4">
-          <a href="https://mass-box.booth.pm/items/3248168" class="sm:self-start px-4 py-2 bg-blue-500 text-white rounded-none hover:bg-blue-600 transition-colors">BOOTH(DL版)</a>
+          <a href="https://mass-box.booth.pm/items/3248168" class="sm:self-start px-4 py-2 bg-blue-500 text-white rounded-none hover:bg-blue-600 transition-colors">BOOTH</a>
           <a href="https://massbox.bandcamp.com/album/sourai" class="sm:self-start px-4 py-2 bg-blue-500 text-white rounded-none hover:bg-blue-600 transition-colors">Bandcamp</a>
         </div>
     </div>
