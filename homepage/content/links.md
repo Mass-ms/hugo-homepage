@@ -19,8 +19,6 @@ author = "Mass"
 #### X
 曲の告知とかをしています．
 {{< twiuser "https://twitter.com/Mass_DTM" "Mass" "@Mass_DTM">}}
-雑な話をしています．
-{{< twiuser "https://twitter.com/submasu" "ます2号" "@submasu">}}
 
 #### Soundcloud
 MVの無い曲がたまに上がります．
