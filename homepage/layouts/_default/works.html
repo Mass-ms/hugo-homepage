@@ -13,7 +13,8 @@
             <div class="lg:mx-5">
                 <div class="bg-white col-span-3 lg:col-span-3 p-5 dark:bg-warmgray-900 dark:text-white">
                     <h1 class="title text-4xl font-bold mb-2">Works</h1>
-                    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 p-10 md:px-20" id="grid">
+                    <h2 class="title text-2xl mb-2">Singing Voice Synthesis Songs</h2>
+                    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 p-10 md:px-20" id="grid_1">
                         <script>
                             async function requestForiioWorks(queryParams) {
                                 // クエリパラメータをURLに追加
@@ -26,7 +27,7 @@
                             }
 
                             function displayWorks(data) {
-                                const container = document.getElementById('grid');
+                                const container = document.getElementById('grid_1');
                                 data.works.forEach(work => {
                                     const workEl = document.createElement('div');
                                     workEl.className = 'bg-white dark:bg-warmgray-900 rounded-xl shadow-md overflow-hidden cursor-pointer hover:shadow-lg hover:bg-gray-350 transition duration-300'
@@ -48,8 +49,52 @@
 
 
                             // APIリクエストを実行し、結果を表示
-                            const queryParams = '?category=ボカロ';
-                            requestForiioWorks(queryParams)
+                            const queryParams_1 = '?category=ボカロ';
+                            requestForiioWorks(queryParams_1)
+                                .then(displayWorks)
+                                .catch(error => {
+                                    console.error('Error fetching Foriio works:', error);
+                                });
+                        </script>
+                    </div>
+                    <h2 class="title text-2xl mb-2">Other Songs</h2>
+                    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 p-10 md:px-20" id="grid_2">
+                        <script>
+                            async function requestForiioWorks(queryParams) {
+                                // クエリパラメータをURLに追加
+                                const url = `https://foriio.mass0203ms.workers.dev/${queryParams}`;
+                                const response = await fetch(url); // ここを Worker のルートに合わせる
+                                if (!response.ok) {
+                                    throw new Error('Network response was not ok');
+                                }
+                                return await response.json();
+                            }
+
+                            function displayWorks(data) {
+                                const container = document.getElementById('grid_2');
+                                data.works.forEach(work => {
+                                    const workEl = document.createElement('div');
+                                    workEl.className = 'bg-white dark:bg-warmgray-900 rounded-xl shadow-md overflow-hidden cursor-pointer hover:shadow-lg hover:bg-gray-350 transition duration-300'
+                                    workEl.addEventListener('click', () => {
+                                        window.open(`https://www.foriio.com/works/${work.id}`, '_blank');
+                                    });
+                                    workEl.innerHTML = `
+                                            <div class="relative">
+                                                <img class="w-full h-48 object-cover override-margin" src="${work.thumbnail}" alt="${work.title}">
+                                            </div>
+                                            <div class="p-4">
+                                                <div class="text-lg font-medium text-gray-800 mb-2 dark:text-white">${work.title}</div>
+                                                <p class="text-gray-500 text-sm line-clamp-2 dark:text-gray-400">${work.description}</p>
+                                            </div>  
+                                        `;
+                                    container.appendChild(workEl);
+                                });
+                            }
+
+
+                            // APIリクエストを実行し、結果を表示
+                            const queryParams_2 = '?category=インスト';
+                            requestForiioWorks(queryParams_2)
                                 .then(displayWorks)
                                 .catch(error => {
                                     console.error('Error fetching Foriio works:', error);
