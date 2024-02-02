@@ -1,0 +1,89 @@
+<header>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
+</header>
+<div class="bg-white panel mb-3 pb-5 dark:bg-warmgray-900">
+    <p class="text-xl text-center text-gray-700 py-3 px-3 dark:text-gray-300 font-bold">Links</p>
+    <div class="flex justify-center flex-wrap mt-4 space-x-4">
+        <!-- Twitter -->
+        <a href="https://twitter.com/Mass_DTM" target="_blank"
+            class="text-slate-950 hover:text-slate-600 dark:text-gray-400 dark:hover:text-gray-300">
+            <i class="fab fa-x-twitter fa-2x"></i>
+            <span class="sr-only">Twitter</span>
+        </a>
+
+        <!-- YouTube -->
+        <a href="https://www.youtube.com/c/Massbox" target="_blank"
+            class="text-red-600 hover:text-red-700 dark:text-gray-400 dark:hover:text-gray-300">
+            <i class="fab fa-youtube fa-2x"></i>
+            <span class="sr-only">YouTube</span>
+        </a>
+
+        <!-- NicoNico -->
+        <a href="https://www.nicovideo.jp/user/42022149/series/218454" target="_blank"
+            class="dark:text-gray-400 dark:hover:text-gray-300">
+            <img src="/img/nc296561.png" alt="NicoNico" class="h-8 w-8" id="nicoImage">
+            <!-- Adjust the size accordingly -->
+            <span class="sr-only">NicoNico</span>
+        </a>
+
+        <!-- SoundCloud -->
+        <a href="https://soundcloud.com/mass-dtm" target="_blank"
+            class="text-orange-500 hover:text-orange-600 dark:text-gray-400 dark:hover:text-gray-300">
+            <i class="fab fa-soundcloud fa-2x"></i>
+            <span class="sr-only">SoundCloud</span>
+        </a>
+
+        <!-- BOOTH -->
+        <a href="https://mass-box.booth.pm" target="_blank" class="dark:text-gray-400 dark:hover:text-gray-300">
+            <img src="/img/logo_icon_r.png" alt="BOOTH" class="h-8 w-8" id="boothImage">
+            <!-- Adjust the size accordingly -->
+            <span class="sr-only">BOOTH</span>
+        </a>
+
+        <!-- Bandcamp -->
+        <a href="https://massbox.bandcamp.com" target="_blank"
+            class="text-cyan-500 hover:text-cyan-600 dark:text-gray-400 dark:hover:text-gray-300">
+            <i class="fab fa-bandcamp fa-2x"></i>
+            <span class="sr-only">Bandcamp</span>
+        </a>
+
+        <!-- GitHub -->
+        <a href="https://github.com/Mass-ms" target="_blank"
+            class="text-gray-800 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300">
+            <i class="fab fa-github fa-2x"></i>
+            <span class="sr-only">GitHub</span>
+        </a>
+    </div>
+    <script>
+        const boothImageElement = document.getElementById('boothImage');
+        const boothLightImage = "/img/logo_icon_r.png";
+        const boothDarkImage = "/img/logo_icon_white_r.png";
+        const nicoImageElement = document.getElementById('nicoImage');
+        const nicoLightImage = "/img/nc296561.png"
+        const nicoDarkImage = "/img/nc296562.png"
+
+        function updateImageBasedOnDarkClass() {
+            const darkClassExists = document.documentElement.classList.contains('dark');
+            boothImageElement.src = darkClassExists ? boothDarkImage : boothLightImage;
+            nicoImageElement.src = darkClassExists ? nicoDarkImage : nicoLightImage;
+        }
+
+        // MutationObserverのインスタンスを作成します。
+        const observer = new MutationObserver(mutations => {
+            mutations.forEach(mutation => {
+                if (mutation.attributeName === 'class') {
+                    updateImageBasedOnDarkClass();
+                }
+            });
+        });
+
+        // 監視の設定
+        observer.observe(document.documentElement, {
+            attributes: true,
+            attributeFilter: ['class'],
+        });
+
+        // 初期状態の確認
+        updateImageBasedOnDarkClass();
+    </script>
+</div>

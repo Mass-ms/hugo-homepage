@@ -2,6 +2,7 @@
 author: "Mass"
 title: "ホームページを作りました"
 draft: false
+image: "img/hp.png"
 date: 2024-01-11
 description: "ホームページ作成"
 tags: ["お知らせ"]

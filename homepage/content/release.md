@@ -9,6 +9,7 @@ author = "Mass"
 HYPERCUBEのリリースについてまとめています．
 
 {{< rawhtml >}}
+<div class="flex-col justify-start space-y-4">
 <div class="flex flex-col sm:flex-row rounded-xl bg-gray-100 dark:bg-warmgray-700">
     <!-- アルバムのアートワーク部分; 角丸を解除、横幅を full に -->
     <div class="flex justify-center items-center p-4 sm:w-1/4">
@@ -23,6 +24,7 @@ HYPERCUBEのリリースについてまとめています．
         <!-- 販売場所へのボタン; 角丸を解除、横幅を full に -->
         <div class="flex justify-start gap-x-4">
           <a href="https://mass-box.booth.pm/items/4602843" class="sm:self-start px-4 py-2 bg-blue-500 text-white rounded-none hover:bg-blue-600 transition-colors">BOOTH</a>
+          <a href="https://link-map.jp/links/RC5xDhft" class="sm:self-start px-4 py-2 bg-blue-500 text-white rounded-none hover:bg-blue-600 transition-colors">LinkMAP</a>
         </div>
     </div>
 </div>
@@ -44,5 +46,6 @@ HYPERCUBEのリリースについてまとめています．
           <a href="https://massbox.bandcamp.com/album/sourai" class="sm:self-start px-4 py-2 bg-blue-500 text-white rounded-none hover:bg-blue-600 transition-colors">Bandcamp</a>
         </div>
     </div>
+</div>
 </div>
 {{< /rawhtml >}}

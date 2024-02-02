@@ -9,7 +9,7 @@
   "scripts": {
     "start": "concurrently npm:watch:*",
     "watch:tw": "tailwindcss -i ./themes/Blonde/assets/css/main.css -o ./themes/Blonde/assets/css/style.css --watch",
-    "watch:hugo": "hugo server",
+    "watch:hugo": "hugo server --buildFuture",
     "build": "tailwindcss -i ./themes/Blonde/assets/css/main.css -o ./themes/Blonde/assets/css/style.css && hugo --minify"
   },
   "devDependencies": {
