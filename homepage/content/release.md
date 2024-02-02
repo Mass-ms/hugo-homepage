@@ -13,6 +13,23 @@ HYPERCUBEのリリースについてまとめています．
 <div class="flex flex-col sm:flex-row rounded-xl bg-gray-100 dark:bg-warmgray-700">
     <!-- アルバムのアートワーク部分; 角丸を解除、横幅を full に -->
     <div class="flex justify-center items-center p-4 sm:w-1/4">
+      <img src="/img/Works_N.png" alt="アルバムアートワーク" class="max-w-full h-auto rounded-none">
+    </div>
+
+    <!-- アルバム情報部分; 上の余白をpt-4に、左右の余白をpx-4に小さく、横幅を full に -->
+    <div class="flex flex-col justify-center p-4 sm:w-3/4">
+        <div class="text-xl mb-2 font-bold">Works 'N'</div>
+        <div class="text-xs sm:text-sm text-gray-600 line-clamp-4 dark:text-gray-400 mb-6">NITMic所属中にMassが制作したBGMをまとめました．全34曲収録
+        </div>
+        <!-- 販売場所へのボタン; 角丸を解除、横幅を full に -->
+        <div class="flex justify-start gap-x-4">
+          <a href="https://t.co/iwBtxWkFFZ" class="sm:self-start px-4 py-2 bg-blue-500 text-white rounded-none hover:bg-blue-600 transition-colors">YouTube</a>
+        </div>
+    </div>
+</div>
+<div class="flex flex-col sm:flex-row rounded-xl bg-gray-100 dark:bg-warmgray-700">
+    <!-- アルバムのアートワーク部分; 角丸を解除、横幅を full に -->
+    <div class="flex justify-center items-center p-4 sm:w-1/4">
       <img src="/img/FMOB.jpg" alt="アルバムアートワーク" class="max-w-full h-auto rounded-none">
     </div>
 
