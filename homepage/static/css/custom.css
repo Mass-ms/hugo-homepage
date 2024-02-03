@@ -20,7 +20,6 @@
     top: 0;
     left: 0;
     width: 100%;
-    /* コンテナの幅に合わせる */
     height: 100%;
     /* コンテナの高さに合わせる */
     object-fit: cover;
