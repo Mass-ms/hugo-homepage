@@ -10,10 +10,11 @@ archives: ["2024/02"]
 ---
 
 お疲れ様です，Massです．
-無料編をやったので有料編もやります．
+無料音源編をやったので有料編もやります．
 
-無料編→[DTMを始めたあなたに送る無料音源情報]({{< ref "/post/free-vst.md" >}})
+[無料編]({{< ref "/post/free-vst.md" >}})
 
+[エフェクト編]({{< ref "/post/fav-fx.md" >}})
 
 ### ピアノ
 #### Soniccouture HAMMERSMITH Pro
@@ -65,6 +66,12 @@ Shreddage 3はバッキング用，Strategyはメロ用で使い分けていま�
 おしゃれ系の曲とかエレクトロ系はこれです．
 
 {{< webcard "https://www.native-instruments.com/jp/products/komplete/guitar/session-guitarist-electric-mint/" >}}
+
+#### YAMAHA PAC612VIIX YNS
+音源ではない(重要)
+たまに自分で弾いたフレーズが曲に紛れ込んでいます．
+
+{{< webcard "https://jp.yamaha.com/products/musical_instruments/guitars_basses/el_guitars/pacifica/pac_600.html" >}}
 
 #### IK Multimedia TONEX CS
 アンプシミュレータです．
@@ -145,7 +152,7 @@ Infinite Stringsも早く出してください...
 ポップスのブラスはこれです．KOMPLETE収録．
 多分これよりいいポップスのブラス音源を探すと費用対効果があんまりな気がします．
 
-{{< webcard "https://www.native-instruments.com/jp/products/komplete/cinematic/session-strings-pro-2/" >}}
+{{< webcard "https://www.native-instruments.com/jp/products/komplete/cinematic/session-horns-pro/" >}}
 
 
 ### 打楽器
@@ -230,3 +237,6 @@ Starter Packシリーズがおすすめです．
 ビートシーケンサーも非常に使いやすいです．
 
 {{< webcard "https://www.xlnaudio.com/products/xo" >}}
+
+エフェクト編に続く
+[よく使うエフェクト2024]({{< ref "/post/fav-fx.md" >}})

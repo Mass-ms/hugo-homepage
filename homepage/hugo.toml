@@ -77,7 +77,7 @@ darkmode = "light"
     # Order of widgets to display
     widgets = ["search", "social", "tags", "archive", "recent"]
   
-
+timeout = 120000
 
 
 # If you're using Yandex.Metrica, you can enable this feature.
