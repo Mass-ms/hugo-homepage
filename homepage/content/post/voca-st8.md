@@ -5,7 +5,7 @@ draft: false
 image: "img/vcst8.jpg"
 date: 2023-12-19
 description: "VOCALOID STREET 8"
-tags: ["お知らせ"]
+tags: ["お知らせ", "イベント"]
 archives: ["2024/02"]
 ---
 
