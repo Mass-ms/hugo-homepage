@@ -149,4 +149,4 @@ archive = "archives"
   [services.twitter]
     disableInlineCSS = true
 
-timeout = 120000
+timeout = "60s"
