@@ -1,10 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>イベント on HYPERCUBE</title><link>https://hpcb.jp/tags/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</link><description>Recent content in イベント on HYPERCUBE</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sat, 04 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hpcb.jp/tags/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/index.xml" rel="self" type="application/rss+xml"/><item><title>M3 2023秋 に参加しました + 近況</title><link>https://hpcb.jp/post/m3-autumn-2023/</link><pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate><guid>https://hpcb.jp/post/m3-autumn-2023/</guid><description>お疲れ様です，Massです． しばらく間が空いてしまいました．(理由は後述)
-去る 10/29(日) M3 2023秋が開催されました． 私が現代表を務めている NITMic (名古屋工業大学コンピュータ倶楽部) としての参加でした．当日，私は何をしていたかといいますと自宅でDTMをしていました．悲しいね&amp;hellip;
-東京流通センターまで飛んでいかなかった理由としましては，直近で Quest 3 を購入したからというのが一つ．(Quest 3の記事はまた別で書きます) もう一つは既に同人音楽の沼につむじまで浸かっている私が，サークル参加するよりまだ沈降途中の部員が参加して溺れる方が良いのでは？と思ったからです． 無事に彼らはCDを買いすぎて帰ってきたので作戦は成功です．ファンネルもありがとう．
-頒布物の話に入ります．部員たちにもCDを作る経験をと思い，初めて手を付けるのにちょうどよいだろう題材として東方アレンジCDを頒布することにしました．自分たちの作ったものが形となって現実に存在するのって感動しますよね．ちなみに私は制作統括ではなかったのでかなり気が楽でした． 曲の方は Tr.1 の Roullet Rev.I で参加しています．原曲は東方紺珠伝より「逆転するホイールオブフォーチュン」で，ジャンルは Hi-Tech Fullon です． XFDはこちら↓
-制作裏話的なもので「逆転するホイールオブフォーチュン」を選んだ理由，曲名，ジャンルそれぞれに軽く触れます． 「逆転するホイールオブフォーチュン」を選んだ理由は単純で好きなキャラだからです．確実に自分の癖を形成しているキャラの一人だと思います．
-次は曲名です．「Roullet Rev.I」 の &amp;ldquo;Roullet&amp;rdquo; は &amp;ldquo;Wheel of Fortune&amp;rdquo; の意味からそのまま，&amp;ldquo;Rev.I&amp;rdquo; は &amp;ldquo;Reverse(逆転)&amp;rdquo; と &amp;ldquo;Revision(改訂)&amp;rdquo; を掛けています． これは「事態を逆転させる」という行為は，現在の事象(現実)を逆転させた別の事象空間を一時的に生み出し，それをもって現実を改訂=上書きするという行為なのではないかという(あくまで私の)解釈に基づいています．ルーレットの出目に基づいて，現実の要素をランダムに逆転させ，それをもって現実を改訂するといった一連の流れを「Roullet Rev.I」は表しています．TRPGのダイスみたいだなぁ．
-ジャンルに関しては，前からハイテック作ってみたかったのが一つと，このころちょうどぱらどっとさん ( https://twitter.com/zenerat )さんにハマっていたからですね． 確か Ultimate taste が入り口だった記憶があります．
-Hi-Tech の作り方はこの動画をガン見しました．
-～How to make HiTECH～ pic.twitter.com/L7TOKOqDyq
-&amp;mdash; RYOQUCHA (@RY0KUCH4) December 22, 2022 RYOQUCHA さんの楽曲大好きです．TECHCORE ESSENCE の TIMELAPSE 最高だった&amp;hellip;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>イベント on HYPERCUBE</title>
+    <link>http://localhost:1313/tags/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</link>
+    <description>Recent content in イベント on HYPERCUBE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ボカスト8新譜「双星」</title>
+      <link>http://localhost:1313/post/sousei-dl/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/sousei-dl/</guid>
+      <description>お疲れ様です．Massです． ボカスト8の告知第二弾です．&#xA;結月ゆかり×紲星あかり楽曲「双星」を2024.03.03(日)名古屋国際会議場 白鳥ホールにて開催のボカスト8にて，スペースF-26 HYPERCUBEで頒布いたします．&#xA;イベント詳細 voca-st.com VOCALOID STREETはVOCALOID、UTAU、その他合成音声ソフトウェア、もしくはその亜種キャラクターを題材としたオンリーイベントです。 voca-st.com 「双星」 概要: 結月ゆかり×紲星あかり楽曲&#xA;頒布価格: 500円(予定)&#xA;部数: 100部&#xA;頒布形態: DLカード(85.5mm × 54mm)&#xA;カード裏面にシリアルコードが記載されています． シリアルコードをWeb上にて入力していただくことで，楽曲データ，ジャケットデータ，歌詞データをダウンロードいただけます． 通販: イベント終了後BOOTHにて行います．&#xA;頒布価格に梱包材代+あんしんBOOTHパック代を上乗せした価格になります． Hypercube - BOOTH Massの制作した楽曲等を販売していますFRAGMENTS OF BLUE(¥ 1,000), Mass 1st Album「奏来 / Sourai」(¥ 1,500) mass-box.booth.pm 配信: フィジカル分が無くなり次第，配信手続きを行います．&#xA;収録楽曲 双星 [Future Core 165BPM] 双星 VIP Remix [Future Core 168BPM] ~4.に各曲インスト版 クレジット Vocal: CeVIO AI 結月ゆかり 麗 Vocal: VOCALOID 4 紲星あかり Music &amp;amp; Lyrics: Mass ( https://twitter.com/Mass_DTM ) Illustration: 小野ののお ( https://twitter.</description>
+    </item>
+    <item>
+      <title>ボカスト8新譜「Ascent EP」</title>
+      <link>http://localhost:1313/post/ascent-ep/</link>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/ascent-ep/</guid>
+      <description>お疲れ様です．Massです． ボカスト8の告知第一弾です．&#xA;紲星あかり×エレクトロ楽曲集「Ascent EP」を2024.03.03(日)名古屋国際会議場 白鳥ホールにて開催のボカスト8にて，スペースF-26 HYPERCUBEで頒布いたします．&#xA;イベント詳細 voca-st.com VOCALOID STREETはVOCALOID、UTAU、その他合成音声ソフトウェア、もしくはその亜種キャラクターを題材としたオンリーイベントです。 voca-st.com 「Ascent EP」 概要: 紲星あかり×エレクトロ楽曲集&#xA;頒布価格: 1000円(予定)&#xA;部数: 100部+通販分少部&#xA;頒布形態: CDレスフィジカル&#xA;ジュエルCDケース内にシリアルコードが付属しています． シリアルコードをWeb上にて入力していただくことで，楽曲データ(MP3,FLAC,AAC,OGG,ALAC,WAV,AIFF)，ジャケットデータ，歌詞データをダウンロードいただけます． XFD 通販: イベント終了後BOOTHにて行います．&#xA;頒布価格に梱包材代+あんしんBOOTHパック代を上乗せした価格になります． Hypercube - BOOTH Massの制作した楽曲等を販売していますFRAGMENTS OF BLUE(¥ 1,000), Mass 1st Album「奏来 / Sourai」(¥ 1,500) mass-box.booth.pm 配信: フィジカル分が無くなり次第，配信手続きを行います．&#xA;楽曲データの拡張子が制限される点，ご注意ください． 収録楽曲 Ascent [Techcore 170BPM] Rooting! [UK Hardcore 170BPM] Player [Groove House 128BPM] Redshift [Progressive Trance 140BPM] Reflect [Future Bass 165BPM] ~10.に各曲インスト版 クレジット Vocal: VOCALOID 4 紲星あかり Music &amp;amp; Lyrics: Mass ( https://twitter.</description>
+    </item>
+    <item>
+      <title>2024/03/03開催のVOCALOID STREET 8にサークル参加します</title>
+      <link>http://localhost:1313/post/voca-st8/</link>
+      <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/voca-st8/</guid>
+      <description>お疲れ様です，Massです． 2024/3/3(日) 名古屋国際会議場白鳥ホールにて開催予定のVOCALOID STREET 8にサークル参加します．&#xA;voca-st.com VOCALOID STREETはVOCALOID、UTAU、その他合成音声ソフトウェア、もしくはその亜種キャラクターを題材としたオンリーイベントです。 voca-st.com 双星のDLカード(2曲入り)と紲星あかりエレクトロEP(5曲入り)を頒布予定です．</description>
+    </item>
+    <item>
+      <title>M3 2023秋 に参加しました &#43; 近況</title>
+      <link>http://localhost:1313/post/m3-autumn-2023/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/m3-autumn-2023/</guid>
+      <description>お疲れ様です，Massです． しばらく間が空いてしまいました．(理由は後述)&#xA;去る 10/29(日) M3 2023秋が開催されました． 私が現代表を務めている NITMic (名古屋工業大学コンピュータ倶楽部) としての参加でした．当日，私は何をしていたかといいますと自宅でDTMをしていました．悲しいね&amp;hellip;&#xA;東京流通センターまで飛んでいかなかった理由としましては，直近で Quest 3 を購入したからというのが一つ．(Quest 3の記事はまた別で書きます) もう一つは既に同人音楽の沼につむじまで浸かっている私が，サークル参加するよりまだ沈降途中の部員が参加して溺れる方が良いのでは？と思ったからです． 無事に彼らはCDを買いすぎて帰ってきたので作戦は成功です．ファンネルもありがとう．&#xA;頒布物の話に入ります．部員たちにもCDを作る経験をと思い，初めて手を付けるのにちょうどよいだろう題材として東方アレンジCDを頒布することにしました．自分たちの作ったものが形となって現実に存在するのって感動しますよね．ちなみに私は制作統括ではなかったのでかなり気が楽でした． 曲の方は Tr.1 の Roullet Rev.I で参加しています．原曲は東方紺珠伝より「逆転するホイールオブフォーチュン」で，ジャンルは Hi-Tech Fullon です． XFDはこちら↓&#xA;制作裏話的なもので「逆転するホイールオブフォーチュン」を選んだ理由，曲名，ジャンルそれぞれに軽く触れます． 「逆転するホイールオブフォーチュン」を選んだ理由は単純で好きなキャラだからです．確実に自分の癖を形成しているキャラの一人だと思います．&#xA;次は曲名です．「Roullet Rev.I」 の &amp;ldquo;Roullet&amp;rdquo; は &amp;ldquo;Wheel of Fortune&amp;rdquo; の意味からそのまま，&amp;ldquo;Rev.I&amp;rdquo; は &amp;ldquo;Reverse(逆転)&amp;rdquo; と &amp;ldquo;Revision(改訂)&amp;rdquo; を掛けています． これは「事態を逆転させる」という行為は，現在の事象(現実)を逆転させた別の事象空間を一時的に生み出し，それをもって現実を改訂=上書きするという行為なのではないかという(あくまで私の)解釈に基づいています．ルーレットの出目に基づいて，現実の要素をランダムに逆転させ，それをもって現実を改訂するといった一連の流れを「Roullet Rev.I」は表しています．TRPGのダイスみたいだなぁ．&#xA;ジャンルに関しては，前からハイテック作ってみたかったのが一つと，このころちょうどぱらどっとさん ( https://twitter.com/zenerat )さんにハマっていたからですね． 確か Ultimate taste が入り口だった記憶があります．&#xA;Hi-Tech の作り方はこの動画をガン見しました．&#xA;～How to make HiTECH～ pic.twitter.com/L7TOKOqDyq&#xA;&amp;mdash; RYOQUCHA (@RY0KUCH4) December 22, 2022 RYOQUCHA さんの楽曲大好きです．TECHCORE ESSENCE の TIMELAPSE 最高だった&amp;hellip;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,5 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2023/12 on HYPERCUBE</title><link>https://hpcb.jp/archives/2023/12/</link><description>Recent content in 2023/12 on HYPERCUBE</description><generator>Hugo -- gohugo.io</generator><language>ja</language><atom:link href="https://hpcb.jp/archives/2023/12/index.xml" rel="self" type="application/rss+xml"/><item><title>双星 VIP Remix を投稿しました</title><link>https://hpcb.jp/post/sousei-vip/</link><pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate><guid>https://hpcb.jp/post/sousei-vip/</guid><description>お疲れ様です，Massです． 先日はゆづきず誕生祭2023のライブにて「双星」をパフォーマンスして頂き 大変ありがとうございました．専門家ゆかりさんの下りを作った張本人です．
-こう，推しに名前を何回も呼ばれると寿命が縮まる感じがしますが，気のせいだと思いたいです．
-本題ですが，双星のリミックスを投稿しました． ゆかりさんとあかりさん，誕生日おめでとうございます．
-VIPは Variation in Production の意味なので，作者による別版みたいな意味です． ちょっとクラブで流しやすい感じにアレンジしました． あと2step/Garageみが増しています．よろしくお願いします．
-3月のボカストで頒布予定ですので手に取って頂けたらありがたいです．</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2023/12 on HYPERCUBE</title>
+    <link>http://localhost:1313/archives/2023/12/</link>
+    <description>Recent content in 2023/12 on HYPERCUBE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 22 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/archives/2023/12/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>双星 VIP Remix を投稿しました</title>
+      <link>http://localhost:1313/post/sousei-vip/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/sousei-vip/</guid>
+      <description>お疲れ様です，Massです． 先日はゆづきず誕生祭2023のライブにて「双星」をパフォーマンスして頂き 大変ありがとうございました．専門家ゆかりさんの下りを作った張本人です．&#xA;こう，推しに名前を何回も呼ばれると寿命が縮まる感じがしますが，気のせいだと思いたいです．&#xA;本題ですが，双星のリミックスを投稿しました． ゆかりさんとあかりさん，誕生日おめでとうございます．&#xA;VIPは Variation in Production の意味なので，作者による別版みたいな意味です． ちょっとクラブで流しやすい感じにアレンジしました． あと2step/Garageみが増しています．よろしくお願いします．&#xA;3月のボカストで頒布予定ですので手に取って頂けたらありがたいです．</description>
+    </item>
+  </channel>
+</rss>

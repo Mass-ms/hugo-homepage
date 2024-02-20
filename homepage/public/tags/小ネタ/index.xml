@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>小ネタ on HYPERCUBE</title>
+    <link>http://localhost:1313/tags/%E5%B0%8F%E3%83%8D%E3%82%BF/</link>
+    <description>Recent content in 小ネタ on HYPERCUBE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 12 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%B0%8F%E3%83%8D%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>よく使うエフェクト2024</title>
+      <link>http://localhost:1313/post/fav-fx/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/fav-fx/</guid>
+      <description>お疲れ様です，Massです． 有料編の続きです．&#xA;無料音源編&#xA;音源編&#xA;コンプレッサー系 IK Multimedia TR5 Black 76 1176エミュです．音にパンチが欲しいときに挿します． T-Rack5はあとはパラレルが単体でできれば文句ないです．&#xA;www.ikmultimedia.com IK Multimedia - Black 76 Limiting Amplifier www.ikmultimedia.com Universal Audio LA-2A Tube Compressor 無償配布の時にもらったオプトコンプです． ピアノやボーカルを軽く潰して音量を整えたいときに使います．&#xA;Teletronix LA-2A Tube Compressor | UAD Audio Plugins | Universal Audio Universal Audio は、Thunderboltオーディオインターフェイス、アナログレコーディング・ハードウェア、UADオーディオプラグインの世界的リーダーです。製品を探すために今すぐストア … www.uaudio.jp SSL Native Bus Compressor 2 バスコンプです．複数トラックをまとめたバスやマスターでマキシマイザーの前段に挿します． Mixノブでパラレルコンプレッションすることが多いです．&#xA;SSL Native Bus Compressor 2 SSL Bus Compressor 2 store.solidstatelogic.com Pulsar Audio Pulsar Mu バスコンプです．上のものより生楽器系に向いた色付けができます． エレクトロ系だとCytomicのThe Glueの方が向いてそうなのでいずれ買います．(円安)&#xA;Pulsar Mu - The Ultimate Glue Compressor The ultimate glue compressor plugin.</description>
+    </item>
+    <item>
+      <title>よく使う音源2024</title>
+      <link>http://localhost:1313/post/fav-vst/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/fav-vst/</guid>
+      <description>お疲れ様です，Massです． 無料音源編をやったので有料編もやります．&#xA;無料編&#xA;エフェクト編&#xA;ピアノ Soniccouture HAMMERSMITH Pro 星月と水色の籠のピアノはこれです． プリセットから自分で音を作り込む必要アリ． なぜかマイクにKU100(ASMRでよく見るアレ)がある．&#xA;www.soniccouture.com www.soniccouture.com Spectrasonics Keyscape Cyber Ciderと双星のエレピはこれです． ピアノは音が固めなのでロック系には良いかも．(電光朝露で使用)&#xA;www.spectrasonics.net www.spectrasonics.net Echo Sound Works House Piano 新譜で使ってます，無料． いわゆるM1ピアノです．M1ピアノだけのためにKORG Collectionを買うか迷い中．&#xA;House Pianos - Free Piano for Kontakt, Logic X, &amp;amp;amp; Ableton Echo Sound Works House Pianos is a free piano for Kontakt, Logic X, and Ableton. www.echosoundworks.com エレキベース IK Multimedia MODOBASS 2 CS Massの曲のエレキベースは大体これです．&#xA;www.ikmultimedia.com MODO BASS 2 is the expanded edition of IK’s industry-first physically modeled bass virtual … www.</description>
+    </item>
+    <item>
+      <title>DTMを始めたあなたに送る無料音源情報</title>
+      <link>http://localhost:1313/post/free-vst/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/free-vst/</guid>
+      <description>お疲れ様です，Massです． 需要がありそうだったので，おすすめの無料音源をまとめます． ぼちぼち追記するかもしれません．&#xA;ピアノ Soniccouture HAMMERSMITH FREE Kontakt Player(無料)が必要 星月と水色の籠のピアノはこれの有料版です．&#xA;www.soniccouture.com www.soniccouture.com エレキベース IK Multimedia MODOBASS 2 CS Massの曲のベースは大体これです．&#xA;www.ikmultimedia.com MODO BASS 2 is the expanded edition of IK’s industry-first physically modeled bass virtual … www.ikmultimedia.com エレキギター Impact Soundworks Shreddage 3 Stratus Free Kontakt Player(無料)が必要 青いガラスと月雫のギターはこれです．&#xA;Shreddage 3 Stratus FREE (VST, AU, AAX) Guitar VST for Kontakt The most realistic and flexible FREE electric guitar instrument for KONTAKT! Thousands of samples, … impactsoundworks.</description>
+    </item>
+  </channel>
+</rss>

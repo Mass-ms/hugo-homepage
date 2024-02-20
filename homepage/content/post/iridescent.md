@@ -2,7 +2,7 @@
 author: "Mass"
 title: "Iridescent Dreamsの編曲を担当しました"
 draft: false
-image: "img/iridre.png"
+image: "img/iridre.jpg"
 date: 2023-10-02
 description: ""
 tags: ["告知"]
