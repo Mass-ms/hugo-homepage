@@ -2,7 +2,7 @@
 author: "Mass"
 title: "双星 VIP Remix を投稿しました"
 draft: false
-image: "img/sousei.png"
+image: "img/sousei.jpg"
 date: 2023-12-22
 description: ""
 tags: ["告知"]

@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on HYPERCUBE</title><link>https://hpcb.jp/tags/</link><description>Recent content in Tags on HYPERCUBE</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://hpcb.jp/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>お知らせ</title><link>https://hpcb.jp/tags/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://hpcb.jp/tags/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</guid><description/></item><item><title>告知</title><link>https://hpcb.jp/tags/%E5%91%8A%E7%9F%A5/</link><pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate><guid>https://hpcb.jp/tags/%E5%91%8A%E7%9F%A5/</guid><description/></item><item><title>イベント</title><link>https://hpcb.jp/tags/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</link><pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate><guid>https://hpcb.jp/tags/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on HYPERCUBE</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on HYPERCUBE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>イベント</title>
+      <link>http://localhost:1313/tags/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>告知</title>
+      <link>http://localhost:1313/tags/%E5%91%8A%E7%9F%A5/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%91%8A%E7%9F%A5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>小ネタ</title>
+      <link>http://localhost:1313/tags/%E5%B0%8F%E3%83%8D%E3%82%BF/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%B0%8F%E3%83%8D%E3%82%BF/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>お知らせ</title>
+      <link>http://localhost:1313/tags/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
+      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
