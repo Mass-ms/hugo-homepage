@@ -33,7 +33,6 @@ archives: ["2024/02"]
 #### 収録楽曲
 1. 双星 [Future Core 165BPM]
 2. 双星 VIP Remix [Future Core 168BPM]
-3. ~4.に各曲インスト版
 
 #### クレジット
 - Vocal: CeVIO AI 結月ゆかり 麗
