@@ -3,7 +3,7 @@ author: "Mass"
 title: "Blue Compass 投稿版+α"
 draft: false
 image: "img/bluecompass.jpg"
-date: 2024-02-23
+date: 2024-02-22
 description: "Blue Compass 投稿版+α"
 tags: ["告知"]
 archives: ["2024/02"]
