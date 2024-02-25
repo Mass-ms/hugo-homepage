@@ -30,7 +30,7 @@ archives: ["2024/02"]
 - XFD {{< youtube eeeYDXdED0Y >}}
 
 - 通販: イベント終了後BOOTHにて行います．
-    - 頒布価格に梱包材代+あんしんBOOTHパック代を上乗せした価格になります．{{< webcard "https://mass-box.booth.pm/" >}}
+    - 頒布価格に梱包材代+あんしんBOOTHパック代を上乗せした価格になります．{{< webcard "https://mass-box.booth.pm/items/5526526" >}}
 
 - 配信: フィジカル分が無くなり次第，配信手続きを行います．
     - 楽曲データの拡張子が制限される点，ご注意ください．   

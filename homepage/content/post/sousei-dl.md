@@ -25,18 +25,21 @@ archives: ["2024/02"]
     - カード裏面にシリアルコードが記載されています．
     - シリアルコードをWeb上にて入力していただくことで，楽曲データ，ジャケットデータ，歌詞データをダウンロードいただけます．
 
+- XFD {{< youtube asJQIKrzlGI >}}
+
 - 通販: イベント終了後BOOTHにて行います．
-    - 頒布価格に梱包材代+あんしんBOOTHパック代を上乗せした価格になります．{{< webcard "https://mass-box.booth.pm/" >}}
+    - 頒布価格に梱包材代+あんしんBOOTHパック代を上乗せした価格になります．{{< webcard "https://mass-box.booth.pm/items/5526550" >}}
 
 - 配信: フィジカル分が無くなり次第，配信手続きを行います．   
 
 #### 収録楽曲
-1. 双星 [Future Core 165BPM]
-2. 双星 VIP Remix [Future Core 168BPM]
+1. 双星 feat. 結月ゆかり & 紲星あかり
+2. 双星 (VIP Remix) feat. 結月ゆかり & 紲星あかり
 
 #### クレジット
 - Vocal: CeVIO AI 結月ゆかり 麗
 - Vocal: VOCALOID 4 紲星あかり
 - Music & Lyrics: Mass ( https://twitter.com/Mass_DTM )
+- Mix & Mastering (Tr.1): Notrum ( https://twitter.com/N_WG_V )
 - Illustration: 小野ののお ( https://twitter.com/OnonoOno_ )
 - Design: fjktkm ( https://twitter.com/fjktkm )
