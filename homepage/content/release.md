@@ -13,7 +13,41 @@ HYPERCUBEのリリースについてまとめています．
 <div class="flex flex-col sm:flex-row rounded-xl bg-gray-100 dark:bg-warmgray-700">
     <!-- アルバムのアートワーク部分; 角丸を解除、横幅を full に -->
     <div class="flex justify-center items-center p-4 sm:w-1/4">
-      <img src="/img/Works_N.png" alt="アルバムアートワーク" class="max-w-full h-auto rounded-none">
+      <img src="/img/sousei-dl.jpg" alt="アルバムアートワーク" class="max-w-full h-auto rounded-none">
+    </div>
+
+    <!-- アルバム情報部分; 上の余白をpt-4に、左右の余白をpx-4に小さく、横幅を full に -->
+    <div class="flex flex-col justify-center p-4 sm:w-3/4">
+        <div class="text-xl mb-2 font-bold">双星</div>
+        <div class="text-xs sm:text-sm text-gray-600 line-clamp-4 dark:text-gray-400 mb-6">2024.03.03(日) 名古屋国際会議場　白鳥ホールにて開催予定の「VOCALOID STREET 8」にて頒布した新譜です．形式: DLカード　ゆかりあかり誕生祭ライブで歌って頂いた「双星」とそのセルフリミックス版を収録． 
+        </div>
+        <!-- 販売場所へのボタン; 角丸を解除、横幅を full に -->
+        <div class="flex justify-start gap-x-4">
+          <a href="https://mass-box.booth.pm/items/5526550" class="sm:self-start px-4 py-2 bg-blue-500 text-white rounded-none hover:bg-blue-600 transition-colors">BOOTH</a>
+        </div>
+    </div>
+</div>
+<div class="flex flex-col sm:flex-row rounded-xl bg-gray-100 dark:bg-warmgray-700">
+    <!-- アルバムのアートワーク部分; 角丸を解除、横幅を full に -->
+    <div class="flex justify-center items-center p-4 sm:w-1/4">
+      <img src="/img/ascent_cover.jpg" alt="アルバムアートワーク" class="max-w-full h-auto rounded-none">
+    </div>
+
+    <!-- アルバム情報部分; 上の余白をpt-4に、左右の余白をpx-4に小さく、横幅を full に -->
+    <div class="flex flex-col justify-center p-4 sm:w-3/4">
+        <div class="text-xl mb-2 font-bold">Ascent EP</div>
+        <div class="text-xs sm:text-sm text-gray-600 line-clamp-4 dark:text-gray-400 mb-6">2024.03.03(日) 名古屋国際会議場　白鳥ホールにて開催予定の「VOCALOID STREET 8」にて頒布した新譜です．形式: CDレスフィジカル 紲星あかりさんのダンスミュージックを5曲収録．
+        </div>
+        <!-- 販売場所へのボタン; 角丸を解除、横幅を full に -->
+        <div class="flex justify-start gap-x-4">
+          <a href="https://mass-box.booth.pm/items/5526526" class="sm:self-start px-4 py-2 bg-blue-500 text-white rounded-none hover:bg-blue-600 transition-colors">BOOTH</a>
+        </div>
+    </div>
+</div>
+<div class="flex flex-col sm:flex-row rounded-xl bg-gray-100 dark:bg-warmgray-700">
+    <!-- アルバムのアートワーク部分; 角丸を解除、横幅を full に -->
+    <div class="flex justify-center items-center p-4 sm:w-1/4">
+      <img src="/img/Works_N_jacket.jpg" alt="アルバムアートワーク" class="max-w-full h-auto rounded-none">
     </div>
 
     <!-- アルバム情報部分; 上の余白をpt-4に、左右の余白をpx-4に小さく、横幅を full に -->
