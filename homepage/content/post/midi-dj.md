@@ -35,7 +35,8 @@ MIDIコントローラ側の出力設定がNoteになっているとVelocity毎�
 
 セトリは以下．
 ![This is a image](/img/midi-dj-setori.jpg)
-
-{{< webcard "https://www.mixcloud.com/Mass_ms/01/">}}
+{{< rawhtml >}}
+<iframe width="100%" height="120" src="https://player-widget.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2FMass_ms%2F01%2F" frameborder="0" ></iframe>
+{{< /rawhtml >}}
 
 DJコントローラーが無くてもDJはできるのでみんなもやってみよう！！
