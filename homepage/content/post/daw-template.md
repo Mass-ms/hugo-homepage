@@ -1,7 +1,7 @@
 ---
 author: "Mass"
 title: "DAWのテンプレートを作ろう"
-draft: false
+draft: true
 image: "img/logo.png"
 date: 2024-03-29
 description: ""

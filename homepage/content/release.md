@@ -24,6 +24,7 @@ HYPERCUBEのリリースについてまとめています．
         <!-- 販売場所へのボタン; 角丸を解除、横幅を full に -->
         <div class="flex justify-start gap-x-4">
           <a href="https://mass-box.booth.pm/items/5526550" class="sm:self-start px-4 py-2 bg-blue-500 text-white rounded-none hover:bg-blue-600 transition-colors">BOOTH</a>
+          <a href="https://link-map.jp/links/VZ8SKeYz" class="sm:self-start px-4 py-2 bg-blue-500 text-white rounded-none hover:bg-blue-600 transition-colors">各種配信サービス</a>
         </div>
     </div>
 </div>
@@ -75,7 +76,7 @@ HYPERCUBEのリリースについてまとめています．
         <!-- 販売場所へのボタン; 角丸を解除、横幅を full に -->
         <div class="flex justify-start gap-x-4">
           <a href="https://mass-box.booth.pm/items/4602843" class="sm:self-start px-4 py-2 bg-blue-500 text-white rounded-none hover:bg-blue-600 transition-colors">BOOTH</a>
-          <a href="https://link-map.jp/links/RC5xDhft" class="sm:self-start px-4 py-2 bg-blue-500 text-white rounded-none hover:bg-blue-600 transition-colors">LinkMAP</a>
+          <a href="https://link-map.jp/links/RC5xDhft" class="sm:self-start px-4 py-2 bg-blue-500 text-white rounded-none hover:bg-blue-600 transition-colors">各種配信サービス</a>
         </div>
     </div>
 </div>
