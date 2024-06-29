@@ -75,7 +75,7 @@ darkmode = "light"
     display = true
 
     # Order of widgets to display
-    widgets = ["search", "social", "tags", "archive", "recent"]
+    widgets = ["search", "social", "tags", "recent", "archive"]
   
 timeout = 60000
 
